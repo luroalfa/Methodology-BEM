@@ -2,8 +2,8 @@
 
 ### Description BEM
 - **Block**
-Element
-Modifier
+- **Element**
+- **Modifier**
 
 .main-menu (block) 
 For example:
