@@ -41,6 +41,7 @@ It can be the text color, font size, alignment etc.
 
 ### For more information:
 
-Visit the official page [getbem.com/introduction/](http://getbem.com/introduction/).
+Visit the official page: [getbem.com/introduction/](http://getbem.com/introduction/).
 
-[9 Bem Tricks](https://9elements.com/bem-cheat-sheet/)
+And here 9 tricks: [BEM CHEAT SHEET](https://9elements.com/bem-cheat-sheet/).
+
