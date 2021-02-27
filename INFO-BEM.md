@@ -38,3 +38,6 @@ It can be a link, a photo, a text field etc.
 >When a block exists elsewhere on our website but with a modification. 
 It can be the text color, font size, alignment etc.
 
+
+### For more information:
+[Official website](http://getbem.com/introduction/)
