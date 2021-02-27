@@ -1,4 +1,4 @@
-# METODOLOGIA BEM
+# METHODOLOGY BEM
 
 ## Description BEM
 > The BEM methodology helps us divide the user interface into independent blocks.
