@@ -13,6 +13,12 @@ As its name suggests, BEM clearly distinguishes 3 concepts:
 
 ## Block
 ### For example:
+>When making the blocks take into account the following:
+
+1. There are simple and compound blocks, compound blocks are those that contain more blocks inside.
+2. You cannot use two underscores in a row or even two dashes in a row as they are reserved for elements and modifiers.
+3. Capital letters cannot be used in class names.
+
 > **.main** (This is a block)
 
 > It is any autonomous and isolated element of our document.
@@ -31,3 +37,4 @@ It can be a link, a photo, a text field etc.
 
 >When a block exists elsewhere on our website but with a modification. 
 It can be the text color, font size, alignment etc.
+
