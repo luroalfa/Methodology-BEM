@@ -40,9 +40,7 @@ It can be the text color, font size, alignment etc.
 
 
 ### For more information:
-[Official website](http://getbem.com/introduction/)
+
+Visit the official page [getbem.com/introduction/](http://getbem.com/introduction/).
 
 [9 Bem Tricks](https://9elements.com/bem-cheat-sheet/)
-
-Visit the official page [Official website](http://getbem.com/introduction/).
-
