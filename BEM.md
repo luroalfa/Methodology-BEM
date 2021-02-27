@@ -5,8 +5,8 @@
 - **Element**
 - **Modifier**
 
-### .main-menu (block) 
-For example:
+### .main (This is a block) 
+#### For example:
 It is any autonomous and isolated element of our document.
 It can be a menu, a gallery, a form and a browser etc.
 
