@@ -14,14 +14,14 @@ It can be a menu, a gallery, a form and a browser etc.
 
 ## Element
 ### For example:
-> **.main__item**
+> **.main__item** (This is a element__)
 
 >It is each of the elements of the block.
 It can be a link, a photo, a text field etc.
 
 ## Modifier
 ### For example:
-> **.main--footer** (modifier --)
+> **.main--footer** (This is a modifier --)
 
 >When a block exists elsewhere on our website but with a modification. 
 It can be the text color, font size, alignment etc.
