@@ -3,6 +3,9 @@
 ## Description BEM
 > The BEM methodology helps us divide the user interface into independent blocks.
 > This helps us create scalable and reusable components.
+> 
+As its name suggests, BEM clearly distinguishes 3 concepts:
+
 **Block**
 **Element**
 **Modifier**
