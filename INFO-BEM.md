@@ -44,5 +44,5 @@ It can be the text color, font size, alignment etc.
 
 [9 Bem Tricks](https://9elements.com/bem-cheat-sheet/)
 
-Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
+Visit the official page [Official website](http://getbem.com/introduction/).
 
