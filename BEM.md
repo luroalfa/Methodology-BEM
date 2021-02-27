@@ -7,8 +7,8 @@
 As its name suggests, BEM clearly distinguishes 3 concepts:
 
 1. **Block**
-- **Element**
-- **Modifier**
+2. **Element**
+3. **Modifier**
 
 
 ## Block
