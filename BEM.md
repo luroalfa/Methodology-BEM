@@ -6,9 +6,9 @@
 > 
 As its name suggests, BEM clearly distinguishes 3 concepts:
 
-**Block**
-**Element**
-**Modifier**
+1. **Block**
+- **Element**
+- **Modifier**
 
 
 ## Block
