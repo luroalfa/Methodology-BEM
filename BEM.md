@@ -1,7 +1,7 @@
 ## METODOLOGIA BEM
 
 ### Description BEM
-**Block**
+- **Block**
 Element
 Modifier
 
